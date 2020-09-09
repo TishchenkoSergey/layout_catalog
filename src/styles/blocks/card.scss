@@ -7,10 +7,6 @@
   border-radius: 5px;
   padding: 0 14px 15px;
 
-  &--position {
-    margin: 0 24px 50px;
-  }
-
   &__avatar {
     box-sizing: content-box;
     margin: 30px 0 45px;
@@ -53,10 +49,6 @@
 
     &--vote {
       margin: 15px 0 20px;
-    }
-    
-    &--price {
-      justify-items: flex-end;
     }
   }
 
